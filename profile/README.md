@@ -34,6 +34,32 @@ The Web3 是一个专注 Web3 技术解决方案设计与开发、技术教程�
 - [The Web3 社区第一期投研分析课程重磅开启：全面掌握 Web3 项目业务，深度挖掘一二级价值
 ](https://github.com/the-web3/course-outline/blob/main/every-issue/research/first.md)
 
+## 区块链系列丛书介绍
+
+### 书籍大纲
+
+- 技术书籍
+  - [基础篇《区块链基础与基本原理》](https://github.com/the-web3-book/the-web3-book/blob/main/outline/blockchainbasic.md)
+  - [钱包篇：《区块链钱包应用开发实战》](https://github.com/the-web3-book/the-web3-book/blob/main/outline/wallet.md)
+  - [链上开发篇《智能合约应用开发实战》](https://github.com/the-web3-book/the-web3-book/blob/main/outline/dapp.md)
+  - [公链篇:《公链底层原理与源码解析》](https://github.com/the-web3-book/the-web3-book/blob/main/outline/chain.md)
+
+- 产品书籍
+  - [产品篇：《Web3 区块链产品经理实用指南》](https://github.com/the-web3-book/the-web3-book/blob/main/outline/product.md)
+
+### 售卖简介
+
+- 技术全套 + 产品书籍一起售卖，总价格：420 USDT（或者等值的人民币）
+- 目前是书籍售卖推广期，凡是购买者一律 8 折优惠并送 The Web3 社区周边(水杯，衬衫和帽子)，8 折优惠截止到 5 月 20 日
+- The Web3 社区承诺该系列书籍在 2028 年之前不会开放给大众, 仅限购买者阅读学习
+- 购买者可以加微信：TheWeb3Dao
+
+
+### 书籍进展
+
+[点击查看进展](https://github.com/the-web3-book/the-web3-book)
+
+
 ## The web3 业务范围
 - 技术服务：提供交易所钱包，HD 钱包，硬件钱包，MPC 托管钱包，Dapps, 质押协议，L1，L2 ，L3 公链，数据可用层（DA）和中心化交易所技术开发服务。
 - 技术培训：提供个人技术成长和企业技术培训服务
